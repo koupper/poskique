@@ -1,0 +1,14 @@
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Release\sincronizacionConsola.exe.config
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Release\sincronizacionConsola.exe.manifest
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Release\sincronizacionConsola.application
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Release\sincronizacionConsola.exe
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Release\sincronizacionConsola.pdb
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Release\WinniesPos.exe
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Release\WinniesService.exe
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Release\WinniesPos.pdb
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Release\WinniesService.pdb
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Release\sincronizacionConsola.csprojResolveAssemblyReference.cache
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Release\sincronizacionConsola.exe.manifest
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Release\sincronizacionConsola.application
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Release\sincronizacionConsola.exe
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Release\sincronizacionConsola.pdb

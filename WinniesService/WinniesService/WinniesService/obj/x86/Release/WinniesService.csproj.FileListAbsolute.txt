@@ -1,0 +1,14 @@
+Z:\winnispos\WinniesService\WinniesService\WinniesService\bin\Release\WinniesService.exe.config
+Z:\winnispos\WinniesService\WinniesService\WinniesService\bin\Release\WinniesService.exe.manifest
+Z:\winnispos\WinniesService\WinniesService\WinniesService\bin\Release\WinniesService.application
+Z:\winnispos\WinniesService\WinniesService\WinniesService\bin\Release\WinniesService.exe
+Z:\winnispos\WinniesService\WinniesService\WinniesService\bin\Release\WinniesService.pdb
+Z:\winnispos\WinniesService\WinniesService\WinniesService\bin\Release\WinniesPos.exe
+Z:\winnispos\WinniesService\WinniesService\WinniesService\bin\Release\WinniesPos.pdb
+Z:\winnispos\WinniesService\WinniesService\WinniesService\obj\x86\Release\WinniesService.csprojResolveAssemblyReference.cache
+Z:\winnispos\WinniesService\WinniesService\WinniesService\obj\x86\Release\WinniesService.ProjectInstaller.resources
+Z:\winnispos\WinniesService\WinniesService\WinniesService\obj\x86\Release\WinniesService.csproj.GenerateResource.Cache
+Z:\winnispos\WinniesService\WinniesService\WinniesService\obj\x86\Release\WinniesService.exe.manifest
+Z:\winnispos\WinniesService\WinniesService\WinniesService\obj\x86\Release\WinniesService.application
+Z:\winnispos\WinniesService\WinniesService\WinniesService\obj\x86\Release\WinniesService.exe
+Z:\winnispos\WinniesService\WinniesService\WinniesService\obj\x86\Release\WinniesService.pdb

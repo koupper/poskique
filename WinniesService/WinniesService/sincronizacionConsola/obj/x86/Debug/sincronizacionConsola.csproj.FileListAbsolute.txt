@@ -1,0 +1,66 @@
+C:\Winnis\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe.config
+C:\Winnis\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe
+C:\Winnis\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.pdb
+C:\Winnis\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesService.exe
+C:\Winnis\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesPos.exe
+C:\Winnis\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesService.pdb
+C:\Winnis\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesPos.pdb
+C:\Winnis\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.csprojResolveAssemblyReference.cache
+C:\Winnis\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.exe
+C:\Winnis\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.pdb
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe.config
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.pdb
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesService.exe
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesPos.exe
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesService.pdb
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesPos.pdb
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.csprojResolveAssemblyReference.cache
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.exe
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.pdb
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe.config
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.pdb
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesPos.exe
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesService.exe
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesPos.pdb
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesService.pdb
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.csprojResolveAssemblyReference.cache
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.exe
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.pdb
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe.manifest
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.application
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.exe.manifest
+Z:\Users\sergio\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.application
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe.manifest
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.application
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.exe.manifest
+C:\Users\LUISENRIQUE\Documents\kike\work 2\POSR\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.application
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe.config
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe.manifest
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.application
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.pdb
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesPos.exe
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesService.exe
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesPos.pdb
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesService.pdb
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.csprojResolveAssemblyReference.cache
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.exe.manifest
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.application
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.exe
+Y:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.pdb
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe.config
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe.manifest
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.application
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.exe
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\sincronizacionConsola.pdb
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesPos.exe
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesService.exe
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesPos.pdb
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\bin\Debug\WinniesService.pdb
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.csprojResolveAssemblyReference.cache
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.exe.manifest
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.application
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.exe
+Z:\winnispos\WinniesService\WinniesService\sincronizacionConsola\obj\x86\Debug\sincronizacionConsola.pdb

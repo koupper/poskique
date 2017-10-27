@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="WinniesMIP.app" version="1.0.0.4" publicKeyToken="995d048a6a285743" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="Hewlett-Packard" asmv2:product="update" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" minimumRequiredVersion="1.0.0.4" trustURLParameters="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="http://localhost/Users/LUISENRIQUE/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Hewlett-Packard" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.6" profile="Client" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.6" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="WinniesPos\WinniesMAP.exe.manifest" size="37822">
+      <assemblyIdentity name="WinniesMAP.exe" version="1.0.0.4" publicKeyToken="995d048a6a285743" language="neutral" processorArchitecture="msil" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>kAPGdgqTBs8wEHoO7o7Is1lHnMY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=SERGIOIVANL70E8\sergio" issuerKeyHash="da84b80db1fdda4d9a3cbb977839e3e9a1776116" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>vmlOUoZ1Wohj8+dBKIqCGGbEkpY=</DigestValue></Reference></SignedInfo><SignatureValue>Z86hL/sZ3xy1TonTPgLHzLmNehCLvsuBf9iCp2Pc56CTrmptTeUl8hfV9pf+vM8xeSjh7fusNwPKzC1hxs5LJipRO936IVDrHrczE647ESYT9Pk/qqmaTiJtKWPYySCe3zru2uIMCRXB5WheKIoRbBwe4ZqpOWINyAh6HI7PbpA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nMjLjTbamIeaabUS20K3l6dN/0ghARpeovj1sWgSNg/BsG/+0zwKhi1N6Jbl0cBOWWvPYuBTdmg2P1Eg8qJ4BAJPwvDxz3/OkJvh4CJOtWoaPB53PvnlQUpmakthkTTUBulNGwdnWfxRfgBfF8FXPRAblE38Tde7CfI6hFxc2RE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9692c46618828a2841e7f363885a7586524e69be" Description="" Url=""><as:assemblyIdentity name="WinniesMIP.app" version="1.0.0.4" publicKeyToken="995d048a6a285743" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SERGIOIVANL70E8\sergio</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>2L+TPvh2yVu9Eeqw7K9y61//TEw=</DigestValue></Reference></SignedInfo><SignatureValue>nC/Pn+Mi/wzdsfqDQ5c20HeRH2OdQpoBj0bcFRaYIshnzRWh3NnZYb928vWcJPr8y/HDEiu//XYeVdsydcVDWW0FqLINNskfAOPosHUxTdq6shcqeXTULaFQEOzqEMBEyncSejzUOJPikikJ+Qplm+kG3eTrMx2EqFdsVhpHlJo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nMjLjTbamIeaabUS20K3l6dN/0ghARpeovj1sWgSNg/BsG/+0zwKhi1N6Jbl0cBOWWvPYuBTdmg2P1Eg8qJ4BAJPwvDxz3/OkJvh4CJOtWoaPB53PvnlQUpmakthkTTUBulNGwdnWfxRfgBfF8FXPRAblE38Tde7CfI6hFxc2RE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQEewrqwMrqapDKG9YjznNTDANBgkqhkiG9w0BAQUFADA3MTUwMwYDVQQDHiwAUwBFAFIARwBJAE8ASQBWAEEATgBMADcAMABFADgAXABzAGUAcgBnAGkAbzAeFw0xNjExMDExNzI3MThaFw0xNzExMDEyMzI3MThaMDcxNTAzBgNVBAMeLABTAEUAUgBHAEkATwBJAFYAQQBOAEwANwAwAEUAOABcAHMAZQByAGcAaQBvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCcyMuNNtqYh5pptRLbQreXp03/SCEBGl6i+PWxaBI2D8Gwb/7TPAqGLU3oluXRwE5Za89i4FN2aDY/USDyongEAk/C8PHPf86Qm+HgIk61aho8Hnc++eVBSmZqS2GRNNQG6U0bB2dZ/FF+AF8XwVc9EBuUTfxN17sJ8jqEXFzZEQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBADqxl5MMg3ETwYei/LcaucY+FSib09sKHrpBW6jr1Md5xW5toDk5KQpCBgrYwR0dN3WKEvw3lQbg/KJVtKhfl/JYsM2qWv/CQvrnmtaBhmLfB0imks6xEwuEEnWUJZilWxGAZ8RzDbgjuXYHFjPNc26SlUVO7qfLtOEnSYZcwfpE</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

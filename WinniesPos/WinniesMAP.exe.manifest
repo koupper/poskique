@@ -1,0 +1,710 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="WinniesMAP.exe" version="1.0.0.4" publicKeyToken="995d048a6a285743" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="WinniesPos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="WinniesPos\bin\Debug\WinniesPos.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinniesPos\obj\x86\Debug\TempPE\Properties.Resources.Designer.cs.dll" size="4608">
+      <assemblyIdentity name="Properties.Resources.Designer.cs.dll" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>xGMF5ymUHVtFiKz09B/PC/DCK94=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinniesPos\bin\Debug\WinniesPos.vshost.exe" size="21688">
+      <assemblyIdentity name="vshost32-clr2" version="14.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>66mrDMnoVseRQPrWm7IB1mww1bE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinniesMIP.application" size="5880">
+      <assemblyIdentity name="WinniesMIP.app" version="1.0.0.4" publicKeyToken="995d048a6a285743" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ZiYyHNfujLVkwEAEgt5hWJoLC5o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinniesPos\bin\Debug\app.publish\WinniesPos.exe" size="438272">
+      <assemblyIdentity name="WinniesPos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>lmWW696gIGXysEIOQ6sMaL1MBYw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinniesPos\bin\Debug\WinniesPos.exe" size="438272">
+      <assemblyIdentity name="WinniesPos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>lmWW696gIGXysEIOQ6sMaL1MBYw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinniesPos\obj\x86\Debug\WinniesPos.exe" size="438272">
+      <assemblyIdentity name="WinniesPos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>lmWW696gIGXysEIOQ6sMaL1MBYw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinniesPos\bin\Debug\WinniesPos.application" size="1872">
+      <assemblyIdentity name="WinniesPos.application" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ABrBE6/CWwDIpizWXfERta9Yij0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinniesPos\bin\Debug\WinniesPos.vshost.application" size="1872">
+      <assemblyIdentity name="WinniesPos.application" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ABrBE6/CWwDIpizWXfERta9Yij0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinniesPos\obj\x86\Debug\WinniesPos.application" size="1872">
+      <assemblyIdentity name="WinniesPos.application" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ABrBE6/CWwDIpizWXfERta9Yij0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency xmlns="urn:schemas-microsoft-com:asm.v1">
+    <dependentAssembly asmv2:dependencyType="install" asmv2:codebase="WinniesPos\bin\Debug\WinniesPos.exe.manifest" asmv2:size="5828">
+      <assemblyIdentity name="WinniesPos.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ozVrtc/vlebcQUdvk7IDIkHPgbs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency xmlns="urn:schemas-microsoft-com:asm.v1">
+    <dependentAssembly asmv2:dependencyType="install" asmv2:codebase="WinniesPos\bin\Debug\WinniesPos.vshost.exe.manifest" asmv2:size="5828">
+      <assemblyIdentity name="WinniesPos.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ozVrtc/vlebcQUdvk7IDIkHPgbs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency xmlns="urn:schemas-microsoft-com:asm.v1">
+    <dependentAssembly asmv2:dependencyType="install" asmv2:codebase="WinniesPos\obj\x86\Debug\WinniesPos.exe.manifest" asmv2:size="5828">
+      <assemblyIdentity name="WinniesPos.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ozVrtc/vlebcQUdvk7IDIkHPgbs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name=".vs\WinniesPos\v14\.suo" size="64512">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>j6jMx+DrPl1C3jk8FvmVCtmtdkM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos.sln" size="872">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Kq25Vvn9jkm9IyL4n0fqL03Rs/k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos.v11.suo" size="15360">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>//OVSGFVmwSPo9FAuKWo+g+1nPs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\App.config" size="247">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>x3VA48NU2jvPgkgR7PUpiKGoVpw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\bin\Debug\WinniesPos.EXE.config" size="340">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>x2g9lDcPDPnd9JwP03tmKbKA6As=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\bin\Debug\WinniesPos.pdb" size="116224">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aWIa4yPNekSiHeqSxNerClmg/0Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\bin\Debug\WinniesPos.vshost.exe.config" size="340">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>x2g9lDcPDPnd9JwP03tmKbKA6As=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Clases\Datos\BaseDatos.cs" size="10924">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>EG1vOlmcfcyB7qqk0WShEHguP7E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Clases\Datos\Impresora.cs" size="20614">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pgc7/eXV76l2v5Ueqzgpi3UWYos=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Clases\Modelos\Familia.cs" size="273">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Fnh5AcKKUfgiXVBnsjem7ICtWZk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Clases\Modelos\Privilegio.cs" size="284">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>eN6riae+F+gXdLZpTmHSQvcsCOo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Clases\Modelos\Producto.cs" size="449">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YTNOAdtP5B0M0feQlyFSGgI3Lg0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Clases\Modelos\Usuario.cs" size="393">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>clE9dHWI50nSJlrpC2W7qNxHYXY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Clases\Modelos\Venta.cs" size="852">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tuSs4KAdNI+1Ztog7PaS8kkBGKc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Form1.cs" size="6011">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>dVEyLTeUC4WVOqWi5JV1BLHdArE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Form1.Designer.cs" size="26025">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>BYDYjxTvgZlW5uQJnCa6kL5pAMg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Form1.resx" size="5817">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>f7cSFLG3sOg9ZizLYcCIq52b6ig=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormFunciones.cs" size="1452">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2jR3IoyMflP9hg4igp4YrqubS7k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormFunciones.Designer.cs" size="3530">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CikjFTJX5A835jqiCkB9Fx+niMw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormFunciones.resx" size="5817">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>f7cSFLG3sOg9ZizLYcCIq52b6ig=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormGerenteFunciones.cs" size="404">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>S0o4CbiRrbPds0lHI/xyIGggnY0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormGerenteFunciones.Designer.cs" size="1643">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>VPXsmpPhKtQT41yxHomw7srZdR4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormGerenteFunciones.resx" size="5817">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>f7cSFLG3sOg9ZizLYcCIq52b6ig=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormInventario.cs" size="5996">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Bx/dD8A6OVdEdqeUm1wMLAmDpmc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormInventario.Designer.cs" size="21398">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>I9QJji8WShINDpxKHrDl1fhlX2c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormInventario.resx" size="30823">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tFjbaownwzI9MXXfp9j9OwKdLcA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormPagos.cs" size="2436">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aHtxViQ24z4S+dpFngH2Z+NCtPc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormPagos.Designer.cs" size="26926">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DEzLZDkWVcIEkTvIiRybXkhhVrs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormPagos.resx" size="5817">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>f7cSFLG3sOg9ZizLYcCIq52b6ig=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormTomaOrden.cs" size="20311">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>i+Eh1Uo8tlEsHQNT//T7rV33pPQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormTomaOrden.Designer.cs" size="44171">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bEgzq+4hkyeD+3GFSmvB1dcj8bo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\FormTomaOrden.resx" size="147388">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CAixlRl3zH93GaWhPkiJToqAc44=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Imagenes\american.jpg" size="32796">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tcMLrMHlDpAYRXAnek6I4bMJkaA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Imagenes\mastercard.png" size="140558">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SPJ6ukTCPgHCoT8k/gacWEdBKpI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Imagenes\visa.png" size="5149">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5052pH/lctW6p20g2FKxJY0c5FI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Imagenes\warning.png" size="87635">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rxvWAtm8DJ9O+Jl8kbRQfd331qY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" size="1230">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8UoOoI/hQkTvkBKpLbS68W6k+dc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" size="7692">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>w20P4f1LvmF5k2AlyEI9VTdi/FI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\WindowsFormsApplication1.FormEmpleadoFunciones.resources" size="180">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>eBRzabyskCuK775Z4mhS4OF5v7Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\WindowsFormsApplication1.FormGerenteFunciones.resources" size="180">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>eBRzabyskCuK775Z4mhS4OF5v7Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\WindowsFormsApplication1.FormInventario.resources" size="15713">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>g/M3snsLqWL5F9DPf581pGi8XkE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\WindowsFormsApplication1.FormLogin.resources" size="180">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>eBRzabyskCuK775Z4mhS4OF5v7Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\WindowsFormsApplication1.FormTomaOrden.resources" size="94676">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>VKnBeoXPJoSowLndleztVF1hHhg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources" size="262406">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>HESL6oCDTq/vBXSXP0TXBamSVKc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\WinniesPos.csproj.FileListAbsolute.txt" size="3265">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AK1JRn/ueRg+YEm1FHbhtKXlM94=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\WinniesPos.csproj.GenerateResource.Cache" size="1281">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CqLH2UxsGMbc4HafTJ7iEONhu0Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\WinniesPos.csprojResolveAssemblyReference.cache" size="2018">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>uOYC5ygtFX9koy8Bcmma7h2m+tg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\obj\x86\Debug\WinniesPos.pdb" size="116224">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aWIa4yPNekSiHeqSxNerClmg/0Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Program.cs" size="520">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ICo7nk/UdTUbEKOnhSFtTEqYvjw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Properties\AssemblyInfo.cs" size="1460">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cig1GG7EQ/1m3y+vAo4IXbGSZ00=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Properties\Resources.Designer.cs" size="4510">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>BrYIQz6KRPwrNZXozzpqZJjJY60=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Properties\Resources.resx" size="7072">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>a8xToN6skH7OlIkzrdWw1kzAtKg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Properties\Settings.Designer.cs" size="1535">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nywrL/wN0uSlemFB3bxZDUoC5p8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Properties\Settings.settings" size="249">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Xh0E3mb/zF39gTUwq2mS5tqq5Bc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\Resources\warning.png" size="87635">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rxvWAtm8DJ9O+Jl8kbRQfd331qY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\WinniesPos.csproj" size="7669">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>GRlyNg8M/8BnLJgtMhtDh3pPMq4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\WinniesPos.csproj.user" size="765">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/mP26w6N5VCmit6+VXHHQ9HNK3Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WinniesPos\WinniesPos_TemporaryKey.pfx" size="1700">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UwRhCsT67oD6WoGcv1VtxlDttd4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SERGIOIVANL70E8\sergio" issuerKeyHash="da84b80db1fdda4d9a3cbb977839e3e9a1776116" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>tq5lNGkE46v5rHfudO+IVW3VKrA=</DigestValue></Reference></SignedInfo><SignatureValue>jvYE4eFS790TU++v+4fEwcvi0UR6RdCFmZYV2ziKGSWVlVbZ8dD6sm+nrHyQ5hPgoeRe4EU5WLdZtd+qAUfMMa81GRr+Qty1lPK6zht08Pb7Ba39q2E7WQ2V1Gwv5PPOkqwmXvTGasUd8u0TzOZplUBblTrvRRbHWQdM74/rS3Y=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nMjLjTbamIeaabUS20K3l6dN/0ghARpeovj1sWgSNg/BsG/+0zwKhi1N6Jbl0cBOWWvPYuBTdmg2P1Eg8qJ4BAJPwvDxz3/OkJvh4CJOtWoaPB53PvnlQUpmakthkTTUBulNGwdnWfxRfgBfF8FXPRAblE38Tde7CfI6hFxc2RE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b02ad56d5588ef74ee77acf9abe304693465aeb6" Description="" Url=""><as:assemblyIdentity name="WinniesMAP.exe" version="1.0.0.4" publicKeyToken="995d048a6a285743" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SERGIOIVANL70E8\sergio</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>o5oOIokwAjYmNexPrQOCFxqObmk=</DigestValue></Reference></SignedInfo><SignatureValue>dx4WY5eY0tMxGmr2NVlvNyROh8RCWb6BJQfwe9vxQdkWTmghcbPqqgJlQwgz5PQt43Vl+FEei3VlUfJjkd5AxY3NG6iBGtFs8GAr1Vk4/5EVSsZ1LfFIv5rvnHXvWeuy5wIZVeyMVY/xejx34YGobpCrhAcRWwujT3EmGLGXQko=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nMjLjTbamIeaabUS20K3l6dN/0ghARpeovj1sWgSNg/BsG/+0zwKhi1N6Jbl0cBOWWvPYuBTdmg2P1Eg8qJ4BAJPwvDxz3/OkJvh4CJOtWoaPB53PvnlQUpmakthkTTUBulNGwdnWfxRfgBfF8FXPRAblE38Tde7CfI6hFxc2RE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQEewrqwMrqapDKG9YjznNTDANBgkqhkiG9w0BAQUFADA3MTUwMwYDVQQDHiwAUwBFAFIARwBJAE8ASQBWAEEATgBMADcAMABFADgAXABzAGUAcgBnAGkAbzAeFw0xNjExMDExNzI3MThaFw0xNzExMDEyMzI3MThaMDcxNTAzBgNVBAMeLABTAEUAUgBHAEkATwBJAFYAQQBOAEwANwAwAEUAOABcAHMAZQByAGcAaQBvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCcyMuNNtqYh5pptRLbQreXp03/SCEBGl6i+PWxaBI2D8Gwb/7TPAqGLU3oluXRwE5Za89i4FN2aDY/USDyongEAk/C8PHPf86Qm+HgIk61aho8Hnc++eVBSmZqS2GRNNQG6U0bB2dZ/FF+AF8XwVc9EBuUTfxN17sJ8jqEXFzZEQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBADqxl5MMg3ETwYei/LcaucY+FSib09sKHrpBW6jr1Md5xW5toDk5KQpCBgrYwR0dN3WKEvw3lQbg/KJVtKhfl/JYsM2qWv/CQvrnmtaBhmLfB0imks6xEwuEEnWUJZilWxGAZ8RzDbgjuXYHFjPNc26SlUVO7qfLtOEnSYZcwfpE</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
